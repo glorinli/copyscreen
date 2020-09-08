@@ -6,6 +6,7 @@ The code imgpbcopy.m and imgpbpaste.m is from http://www.alecjacobson.com/weblog
 
 ## Environment
 Tested on MacOS 10.15.5 Catalina, only support MacOS now because the imgpbcopy are based on Apple libraries.
+Adb is required of cause.
 
 ## How to use
 ### 1. compile the imgpbcopy and imgpbpaste
